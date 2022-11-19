@@ -16,6 +16,11 @@ npm run dev
 yarn dev
 ```
 
+## Sanity set up
+
+Please follow the guidelines to setup sanity [here](https://www.sanity.io/docs/create-a-sanity-project)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Application
@@ -26,3 +31,6 @@ This is a fullstack eCommerce application built using :
 - [React](https://reactjs.org/)
 - [Sanity](https://www.sanity.io/) A third party service for content management system (backend database)
 - [Stripe](https://stripe.com/) A third party payment gateway service
+
+
+
